@@ -1,4 +1,4 @@
-# Swirl
+# Posterize
 
 ## Purpose
 A shader that adds a simple posterize effect.
